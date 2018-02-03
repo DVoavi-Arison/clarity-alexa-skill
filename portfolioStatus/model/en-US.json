@@ -1,0 +1,30 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetPortfolioStatusIntent",
+        "samples": [
+          "Any news on my portfolio",
+          "Do I have alerts on clarity",
+          "How does clarity look like",
+          "Clarity status",
+          "Is Linedata Clarity OK"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "clarity"
+  }
+}
